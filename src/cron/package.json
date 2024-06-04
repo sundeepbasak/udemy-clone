@@ -1,0 +1,9 @@
+{
+  "name": "cron",
+  "main": "index.js",
+  "type": "commonjs",
+  "files": [
+    "src/cron/index.js",
+    "src/utils/**/**"
+  ]
+}
